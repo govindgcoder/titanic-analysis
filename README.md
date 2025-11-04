@@ -1,6 +1,6 @@
 # Exploratory Data Analysis: Titanic Dataset
 
-> A basic analysis of the infamous Titanic Dataset.
+> A basic analysis of the famous Titanic Dataset.
 
 ## Tooling
 - Pandas
